@@ -1,0 +1,28 @@
+[
+    {
+        "id": 98,
+        "status": "waiting_payment",
+        "kelas": [
+            {
+                "id": 1,
+                "nama": "kelas membuat API (premium)",
+                "deskripsi": "kelas membuat API gratis dengan lumen",
+                "pengajar": "widada",
+                "harga": 3000
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "status": "waiting_payment",
+        "kelas": [
+            {
+                "id": 2,
+                "nama": "kelas UI\/UX (premium)",
+                "deskripsi": "kelas UI\/UX dengan invision dan sketch",
+                "pengajar": "angga",
+                "harga": 4000
+            }
+        ]
+    }
+]
